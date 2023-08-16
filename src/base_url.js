@@ -1,1 +1,1 @@
-export const baseUrl = "https://people-backend-kale-alex.onrender.com"
+export const baseUrl = "http://lohalhost:5555"
